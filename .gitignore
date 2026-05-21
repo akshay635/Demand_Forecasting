@@ -1,0 +1,7 @@
+akshay_venv/
+__pycache__/
+*.pyc
+*.pkl
+artifacts/
+logs/
+.ipynb_checkpoints/
